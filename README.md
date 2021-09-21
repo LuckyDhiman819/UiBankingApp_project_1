@@ -22,5 +22,5 @@ To-do list:
 * currently only one benifits coordinator is supported
 ## Getting Started
 * Start with this Github Repository
-* Git clone to directory of your choice $ git clone https://github.com/kafilurrahman/BANKING_OPERATIONS_UI_APP.git
+* Git clone to directory of your choice $ git clone https://github.com/LuckyDhiman819/UiBankingApp_project_1.git
 * Run the project on server
